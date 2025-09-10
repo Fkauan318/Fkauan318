@@ -1,4 +1,4 @@
-## Olá, me chamo Francisco Kauan!! sou programador front-end freelancer
+## Olá, me chamo Francisco Kauan!! sou programador front-end freelancer.
 
 - Trabalhando como freelancer
 - Estudando mais sobre front-end
